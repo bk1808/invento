@@ -1,0 +1,13 @@
+{
+
+"Customer ID" : 170567597,
+"Customer Name" : "Michelle",
+"Customer Type" : "Prospect",
+"Customer Phone Number" : 9885544885,
+"Customer Source" : null,
+"Company Name" : "InformAI",
+"Private Limited" : true,
+"Company Portfolio" : [{"P1" : "Consumer Electronics"},{"P2":"Wearable Tech"}, {"P3":"AI and ML"}],
+"List Of Products" : {"product1" : "WatchOS", "product2" : "Card", "product":"AIMusic"}
+
+}

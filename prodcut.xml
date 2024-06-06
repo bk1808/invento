@@ -1,0 +1,15 @@
+<flipkart> <products> <category	type="mobile" >
+
+<product1 id = "IPH01" brand = "Apple">	<model name="iPhone-15 Pro Max"	> </model> <price>1,59,000</price> <ram>12GB</ram> 
+<camera>12MP</camera> <color>Silver</color> </product1>
+
+<product2 id = "SMG45" brand = "Samsung"> <model name="Galaxy S24 Ultra" > </model>	<price>1,39,999</price>	<ram>10GB</ram>	
+<camera>10MP</camera> <color>Blue</color> </product2>
+
+<product3 id = "PIX23" brand = "Google"> <model	name="Pixel	8 Pro" > </model> <price>1,08,999</price> <ram>8GB</ram> <camera>12MP</camera> 
+<color>Black</color>	</product3>
+
+<compare> <prices>&quot;iPhone-15&quot;	= &apos;1,59,000&apos; &gt;	&quot;Galaxy S24&quot; = &apos;1,08,999&apos; &lt; &quot;Pixel 8 
+Pro&quot; = &apos;1,39,999&apos;</prices> </compare>
+
+</category> </products> </flipkart>
